@@ -18,4 +18,5 @@ pip3 install jupyter
 pip3 install pandas
 pip3 install oracledb
 pip3 install dotenv
+pip3 install sqlalchemy
 ```
